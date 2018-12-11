@@ -3,19 +3,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: 
 }
 
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
+.weather {
+  width: 1024rpx;
+  height: 1024rpx;
   margin: 20rpx;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
-.userinfo-nickname {
-  color: #aaa;
-}
 
-.usermotto {
-  margin-top: 200px;
-}
+
